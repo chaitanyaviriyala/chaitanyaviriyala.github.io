@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Blog"
+title: Blog
 permalink: /blog/
 author_profile: true
 redirect_from:
@@ -16,6 +16,5 @@ redirect_from:
 ## Sometimes I post on Medium, Quora and Twitter
 
 Here are the handles : 
-
 * [Medium](https://medium.com/@viriyalachaitanya)
 * [Twitter](https://twitter.com/realchaitu)
