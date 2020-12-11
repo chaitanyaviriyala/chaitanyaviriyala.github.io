@@ -3,10 +3,7 @@ layout: archive
 title: "Home"
 permalink: /
 author_profile: true
-redirect_from:
-  - /cv/
-  - /cv.html/
- 
+
 ---
 
 {% include base_path %}
