@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 # Chaitanya Viriyala @ GitHub [chaitanyaviriyala.github.io](https://chaitanyaviriyala.github.io/)
-Repo for [https://chaitanyaviriyala.github.io](https://chaitanyaviriyala.github.io/) (powered by GitHub Pages), which gives a list to my GitHub pages for some repositories and projects. 
 
-This is made by Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+Chaitanya Viriyala is currently a third year Engineering Student in the Data Analysis and Applications in Signal and Image Processing [DATASIM] Option, at Ecole Centrale de Nantes. He will graduate in September 2021 with a Major in DATASIM and minor in International Business Development.  
+
+### The three big ones in life are wealth, health, and happiness. We pursue them in that order, but their importance is reverse. 
 
 
 © [Chaitanya Krishna Viriyala](https://GitHub.com/chaitanyaviriyala), 2020.
