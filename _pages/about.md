@@ -12,8 +12,7 @@ redirect_from:
 
 Chaitanya Viriyala is currently a third year Engineering Student in the Data Analysis and Applications in Signal and Image Processing [DATASIM] Option, at Ecole Centrale de Nantes. He will graduate in September 2021 with a Major in DATASIM and minor in International Business Development.  In his free time, Chaitanya enjoys traveling, reading books and building technology. 
 
-### The three big ones in life are wealth, health, and happiness. We pursue them in that order, but their importance is reverse. 
-- [@naval](https://twitter.com/naval)
+### The three big ones in life are wealth, health, and happiness. We pursue them in that order, but their importance is reverse. -  [@naval](https://twitter.com/naval)
 
 
 © [Chaitanya Krishna Viriyala](https://GitHub.com/chaitanyaviriyala), 2020.
