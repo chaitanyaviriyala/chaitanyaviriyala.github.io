@@ -21,7 +21,7 @@ During my term at [CYME](www.cyme.io),  I have developed Algorithms for PEAKTO, 
 
 Right now, I am working on improving Ultrasound Images as a part of Plane Wave Imaging Challenge under the guidance of [Prof. Diana Mateus](https://scholar.google.com/citations?user=kr_GYOsAAAAJ)
 
-Outside of that, I like sharing code on GitHub, where you'll find both completed projects and works in progress. For example, I've worked on a multidisciplinary team designing a Indoor Positioning System called IPS. You can also find me at my [LinkedIn](https://www.linkedin.com/in/chaitanya-krishna-viriyala-3956b011/) posting updates every so often.
+Outside of that, I like sharing code on GitHub, where you'll find both completed projects and works in progress. You can also find me at my [LinkedIn](https://www.linkedin.com/in/chaitanya-krishna-viriyala-3956b011/) posting updates every so often.
 
 Interested? Contact me at [chaitanya.viriyala@eleves.ec-nantes.fr](chaitanya.viriyala@eleves.ec-nantes.fr)
 
