@@ -8,7 +8,7 @@ redirect_from:
   - /about.html/
 ---
 
-# Chaitanya Viriyala @ GitHub [chaitanyaviriyala.github.io](https://github.com/chaitanyaviriyala)
+# Chaitanya Viriyala 
 
 Chaitanya Viriyala is currently a third year Engineering Student in the Data Analysis and Applications in Signal and Image Processing [DATASIM] Option, at Ecole Centrale de Nantes. He will graduate in September 2021 with a Major in DATASIM and minor in International Business Development [IBM].  In his free time, Chaitanya enjoys traveling, reading books and building technology. 
 
