@@ -1,59 +1,41 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
+  - /cv/
+  - /cv.html/
+  - /resume.html/
 ---
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Hey! My name is Chaitanya Krishna Viriyala and this is my Personal Website/Portfolio.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Currently, I'm a graduate student pursuing[ DATASIM (Data analysis and applications in signal and image processing)](https://www.ec-nantes.fr/engineering-programme-diplome-dingenieur/course-specialisations-yrs-23/data-analysis-and-applications-in-signal-and-image-processing) at [Ecole Centrale de Nantes](https://www.ec-nantes.fr), a graduate program with a curriculum focusing extensively on images, design and innovation. Most recently, from April 2020 to September 2020, I've worked at CYME, a startup based in Montpellier. Previously, I've had a chance to study at [Mahindra Ecole Centrale](https://www.mahindraecolecentrale.edu.in) and intern at [SCEE team in Centrale Supelec Rennes](http://www-scee.rennes.supelec.fr/wp/) during my bachelors.
 
-Publications
+During my term at [CYME](www.cyme.io),  I have developed Algorithms for PEAKTO, the toolbox and worked extensively on Image Duplicates, Near Duplicates, Color Palette Detection and Face Detection. I was supervised by the CTO's of the company Matthieu Kopp and Thomas. 
+
+Right now, I am working on improving Ultrasound Images as a part of Plane Wave Imaging Challenge under the guidance of [Prof. Diana Mateus](https://scholar.google.com/citations?user=kr_GYOsAAAAJ)
+
+Outside of that, I like sharing code on GitHub, where you'll find both completed projects and works in progress. For example, I've worked on a multidisciplinary team designing a Indoor Positioning System called IPS. You can also find me at my [LinkedIn](https://www.linkedin.com/in/chaitanya-krishna-viriyala-3956b011/) posting updates every so often.
+
+Interested? Contact me at [chaitanya.viriyala@eleves.ec-nantes.fr](chaitanya.viriyala@eleves.ec-nantes.fr)
+
+
+Languages
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+**English** Native
+
+**French** Compentent
+
+**Telugu** Mother tongue
+
+**Hindi** Proficient
+
+
+
