@@ -5,8 +5,6 @@ permalink: /topicsofinterest/
 author_profile: true
 redirect_from:
   - /resume/
-  - /cv/
-  - /cv.html/
   - /resume.html/
 ---
 
