@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "home"
+title: "Home"
 permalink: /
 author_profile: true
 redirect_from:
