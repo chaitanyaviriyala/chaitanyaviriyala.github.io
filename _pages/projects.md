@@ -11,7 +11,7 @@ author_profile: true
 
 ## [Kalman Filtering for Statistics ](https://github.com/chaitanyaviriyala/Kalman_Filtering)
 
-<a href="http://example.com/" target="_blank">example</a>
+<a href="https://github.com/chaitanyaviriyala/Kalman_Filtering" target="_blank">example</a>
 
 Description : Kalman Filtering for prediction
 
