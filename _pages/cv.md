@@ -23,7 +23,7 @@ Right now, I am working on improving Ultrasound Images as a part of Plane Wave I
 
 Outside of that, I like sharing code on GitHub, where you'll find both completed projects and works in progress. You can also find me at my [LinkedIn](https://www.linkedin.com/in/chaitanya-krishna-viriyala-3956b011/) posting updates every so often.
 
-Interested? Contact me at [chaitanya.viriyala@eleves.ec-nantes.fr](chaitanya.viriyala@eleves.ec-nantes.fr)
+Interested? Contact me at [chaitanya.viriyala@eleves.ec-nantes.fr](mailto:chaitanya.viriyala@eleves.ec-nantes.fr)
 
 
 Languages
