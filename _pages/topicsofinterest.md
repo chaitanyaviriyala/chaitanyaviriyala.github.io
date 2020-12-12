@@ -11,7 +11,10 @@ author_profile: true
 
 Here are a few of my interests !
 
-## Micro Economics
-## Game Theory
-## Business and Others
+### Micro Economics
+### Game Theory
+### Mathematics
+### Business 
+### Psychology
+
 
