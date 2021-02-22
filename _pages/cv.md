@@ -11,10 +11,9 @@ author_profile: true
 
 Hey! My name is Chaitanya Krishna Viriyala and this is my resume
 
-- In [English](!https://drive.google.com/file/d/1zr-OHaPLcKybRa7-vfPdoKmUxy2EFn9o/view?usp=sharing)
+- In   <a href="https://drive.google.com/file/d/1zr-OHaPLcKybRa7-vfPdoKmUxy2EFn9o/view?usp=sharing" target="_blank">English]</a>     
 
-- CV en [Français](!https://drive.google.com/file/d/1NCr6ci7Pmkz0avJRBEUL1b1qPWk_uLld/view?usp=sharing)
-
+- CV en  <a href="https://drive.google.com/file/d/1NCr6ci7Pmkz0avJRBEUL1b1qPWk_uLld/view?usp=sharing" target="_blank">Français</a>     
 
 
 
