@@ -10,8 +10,10 @@ author_profile: true
 {% include base_path %}
 
 
-## <a href="https://github.com/chaitanyaviriyala/Kalman_Filtering" target="_blank">Kalman Filtering for Statistics</a>
 
-Description : Kalman Filtering for prediction
+Here's the link to my github, where I share some of the projects and my work :
+
+## <a href="https://github.com/chaitanyaviriyala?tab=repositories" target="_blank">Github Repositories</a>
+
 
 
