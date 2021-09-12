@@ -4,7 +4,7 @@ Repo for [https://chaitanyaviriyala.github.io](https://chaitanyaviriyala.github.
 This is made by Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 
-© [Chaitanya Krishna Viriyala](https://GitHub.com/chaitanyaviriyala), 2020.
+© [Chaitanya Krishna Viriyala](https://GitHub.com/chaitanyaviriyala), 2021.
 
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/chaitanyaviriyala/)
