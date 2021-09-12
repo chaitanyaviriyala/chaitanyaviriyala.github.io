@@ -15,7 +15,7 @@ Chaitanya Viriyala is currently a third year Engineering Student in the Data Ana
 ### The three big ones in life are wealth, health, and happiness. We pursue them in that order, but their importance is reverse -  [@naval](https://twitter.com/naval)
 
 
-© [Chaitanya Krishna Viriyala](https://GitHub.com/chaitanyaviriyala), 2020.
+© [Chaitanya Krishna Viriyala](https://GitHub.com/chaitanyaviriyala), 2021.
 
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/chaitanyaviriyala/)
