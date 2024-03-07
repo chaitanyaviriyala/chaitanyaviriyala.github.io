@@ -13,7 +13,7 @@ Hey! My name is Chaitanya Krishna Viriyala and this is my Personal Website/Portf
 
 I love working with data to solve problems and make things better. I have studied a lot about data, signals, and electronics, and I've been lucky to work in cool places across France, starting from my home in Hyderabad, India.
 
-My work is about making buildings smarter and saving energy, helping doctors with better information, and making sure solar power plants work their best. I've worked with great teams at GreenTwins, APTICL, Daisun, and others, where I've learned to use lots of different computer tools to manage and understand data.
+My work is about making buildings smarter and saving energy, helping doctors with better information, and making sure solar power plants work their best. I've worked with great teams at GreenTwins, APICL, Daisun, and others, where I've learned to use lots of different computer tools to manage and understand data.
 
 My skills include Python (that's a programming language), and I also use other tools to organize and keep data safe and easy to use on the internet. I'm always learning new things and trying to get better at what I do.
 
