@@ -13,4 +13,4 @@ author_profile: true
 
 Here are the handles : 
 * [Medium](https://medium.com/@viriyalachaitanya)
-* [Twitter](https://twitter.com/realchaitu)
+* [Twitter](https://twitter.com/cviriyala)
