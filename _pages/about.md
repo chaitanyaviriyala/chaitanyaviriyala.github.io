@@ -15,7 +15,7 @@ Chaitanya Viriyala is an engineer who specializes in making sense of large amoun
 ### The three big ones in life are wealth, health, and happiness. We pursue them in that order, but their importance is reverse -  [@naval](https://twitter.com/naval)
 
 
-© [Chaitanya Krishna Viriyala](https://GitHub.com/chaitanyaviriyala), 2021.
+© [Chaitanya Krishna Viriyala](https://GitHub.com/chaitanyaviriyala), 2024.
 
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/chaitanyaviriyala/)
