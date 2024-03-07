@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Chaitanya Krishna Viriyala"
-  avatar           : "profile.png"
-  bio              : "Data Scientist"
+  avatar           : "profile_2.png"
+  bio              : "Lead Data/ ML Engineer"
   location         : "Paris, France"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "chaitanyaviriyala"
-  twitter          : "realchaitu"
+  twitter          : "CViriyala"
 
 
 # Reading Files
