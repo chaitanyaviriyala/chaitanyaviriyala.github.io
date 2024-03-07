@@ -10,7 +10,7 @@ redirect_from:
 
 # Chaitanya Viriyala 
 
-Chaitanya Viriyala is currently a third year Engineering Student in the Data Analysis and Applications in Signal and Image Processing [DATASIM] Option, at Ecole Centrale de Nantes. He will graduate in September 2021 with a Major in DATASIM and minor in International Business Development [IBM].  In his free time, Chaitanya enjoys traveling, reading books and building technology. 
+Chaitanya Viriyala is an engineer who specializes in making sense of large amounts of data and has a talent for improving energy use and health care with technology. He studied engineering in India, learning about electricity and electronics, and now uses those skills across France. He's great at solving tricky problems with data and making computer systems smarter and more helpful. In his free time, Chaitanya enjoys traveling, reading books and building technology. 
 
 ### The three big ones in life are wealth, health, and happiness. We pursue them in that order, but their importance is reverse -  [@naval](https://twitter.com/naval)
 
