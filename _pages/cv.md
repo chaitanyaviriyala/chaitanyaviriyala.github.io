@@ -11,4 +11,4 @@ author_profile: true
 
 Hey! My name is Chaitanya Krishna Viriyala and these are my :
 
-- Resume in <a href="https://drive.google.com/file/d/1TIXAGFShXWAsIB85NWFmWxSdP1v6YSSY/view?usp=sharing" target="_blank">English</a>     
+- Resume in <a href="https://drive.google.com/file/d/1akfYe0RKO3PeeliPQZFN-Y2ht6BuLDSU/view?usp=sharing" target="_blank">English</a>     
