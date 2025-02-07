@@ -13,11 +13,22 @@ Hey! My name is Chaitanya Krishna Viriyala and this is my Personal Website/Portf
 
 I love working with data to solve problems and make things better. I have studied about data, signals, and electronics, and I've been lucky to work in cool places across France.
 
-My work is about making buildings smarter and saving energy. In the past, I helped doctors with better information, and built a amrketplace for animals. I've worked with great teams at GreenTwins, APICL, Daisun, and others, where I've learned to use lots of different computer tools to manage and understand data.
+Currently, as a Lead Data & ML Engineer at MAIF Vie, I'm spearheading the development of complex data architectures and ML deployments to drive business transformation. My work focuses on building scalable data pipelines and implementing cutting-edge ML solutions that make a real impact on business operations.
 
-My skills include Python, PySpark, Airflow, Elastic Search, Azure/AWS to name a few and I also use other tools to organize and keep data safe and easy to use on the internet. I'm always learning new things and trying to get better at what I do.
 
-This website is where you can see what I’ve done and what I’m all about. Whether you're someone who wants to work with me, someone who's into technology, or just curious, you're welcome here. Let’s talk and make something great together!
+Previously at GreenTwins, I led initiatives in IoT and energy optimization, developing sustainable data architectures that help industrial installations become more energy-efficient. I've had the privilege of working across diverse domains - from energy efficiency at GreenTwins and business intelligence at APICIL to solar power optimization at Daisun and healthcare innovation at RHISA. Each role has enriched my expertise in building robust data solutions that solve real-world problems.
+My technical toolkit includes:
+
+- Data Engineering: Python, PySpark, Airflow, Kafka
+- Cloud & Infrastructure: AWS, Azure, Kubernetes, Docker
+- Databases: SQL, MongoDB, Elastic Search, Neo4j
+- Machine Learning: TensorFlow, PyTorch, Scikit-learn
+- Big Data: Databricks, Spark Streaming, Flink
+
+I'm passionate about creating data solutions that are not just technically sound but also sustainable and business-focused. Whether it's optimizing energy consumption, improving healthcare data processing, or enhancing business intelligence systems, I believe in leveraging data and ML to create meaningful impact.
+
+
+This website showcases my professional journey, projects, and thoughts on data engineering and ML. Feel free to explore my work or connect with me for collaborations and discussions.
 
 Outside of that, I like sharing code on GitHub, where you'll find both completed projects and works in progress. You can also find me at my 
 <a href="https://www.linkedin.com/in/chaitanya-krishna-viriyala-3956b011/" target="_blank">LinkedIn</a> posting updates every so often.
@@ -28,9 +39,9 @@ Interested? Contact me at [viriyalachaitanya@gmail.com](mailto:viriyalachaitanya
 Languages
 ======
 
-**English** : Native
+**English** : Native/Bilingual
 
-**French**  : Competent
+**French**  : Fluent
 
 **Telugu**  : Mother tongue
 
