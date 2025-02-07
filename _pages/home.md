@@ -19,7 +19,7 @@ Currently, as a Lead Data & ML Engineer at MAIF Vie, I'm spearheading the develo
 Previously at GreenTwins, I led initiatives in IoT and energy optimization, developing sustainable data architectures that help industrial installations become more energy-efficient. I've had the privilege of working across diverse domains - from energy efficiency at GreenTwins and business intelligence at APICIL to solar power optimization at Daisun and healthcare innovation at RHISA. Each role has enriched my expertise in building robust data solutions that solve real-world problems.
 My technical toolkit includes:
 
-- Data Engineering: Python, PySpark, Airflow, Kafka
+- Data Engineering: Python, PySpark, DBT, Airflow, Kafka
 - Cloud & Infrastructure: AWS, Azure, Kubernetes, Docker
 - Databases: SQL, MongoDB, Elastic Search, Neo4j
 - Machine Learning: TensorFlow, PyTorch, Scikit-learn
